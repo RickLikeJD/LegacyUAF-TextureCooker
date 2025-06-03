@@ -29,24 +29,16 @@ This tool provides a simple way to convert your image files for use in your favo
     * Execute the Python script.
 
 3.  **Get Your Cooked Textures:**
-    * Voila! 🎉 Your converted textures will appear in the `output` folder (or as specified by the script's logic).
+    * Voila! 🎉 Your converted textures will appear in the `output` folder.
 
-## 🤔 How It Works (Simplified)
+## 🤔 How It Works
 
-This script uses the Pillow library to open your input images, perform necessary transformations (like resizing, color palette adjustments, or format changes specific to Wii UbiArt requirements - *you might want to add more specific details here if you can!*), and then saves them in a format compatible with the games.
+This script uses the Pillow library to open your input images, perform necessary transformations, and then saves them in a format compatible with the games.
 
 ## 🙏 Credits
 
 A big thank you for using this tool!
 
-**Please make sure to credit [Your Name/Username Here] if you use this script in your projects or share it elsewhere.**
-
-## ⚠️ Disclaimer
-
-* This tool is provided as-is. Always back up your original files before processing.
-* Ensure your input textures are compatible with the general requirements of Wii homebrew and UbiArt modding.
-* The specific "cooking" process for UbiArt games can be complex. This script aims to simplify common steps but may not cover every edge case or specific game requirement.
-
----
+**Please make sure to credit [RickLikeJD] if you use this script in your projects or share it elsewhere.**
 
 *Happy Modding!* 🎮
