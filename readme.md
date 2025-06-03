@@ -1,4 +1,4 @@
-# 🎨 UbiArt Wii Texture Cooker 🎨
+# 🎨 WiiUAF-TexCooker 🎨
 
 **Transform your custom textures into Wii-ready formats for UbiArt games like Just Dance 2014 and beyond!**
 
